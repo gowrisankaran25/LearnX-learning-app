@@ -12,7 +12,7 @@ An intelligent learning platform that understands a student's learning level, id
 - **Notes & Documents**: Upload PDFs/PPTs for AI-generated summaries and flashcards
 - **Gamification**: XP points, badges, streaks, leaderboards
 - **Teacher/Admin Panel**: Course creation, student performance tracking
-
+- 
 ## 🏗️ Tech Stack
 
 - **Frontend**: React.js + Tailwind CSS
